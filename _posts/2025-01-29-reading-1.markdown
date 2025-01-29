@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Reading 1"
+date: 2025-01-29 14:09:37 -0500
+categories: readings
+---
+
+# Reading 1 - Co-Intelligence
+
+In this reading, the author discusses the emergence of AI and its impact on society. I thought it was interesting to learn about how LLMs like ChatGPT were created and see how they evolved from the first version of GPT-1 to the current version of GPT-4. Even though AI is still in the early stages and it is already so advanced for how young it is, it is exciting and scary to imagine how much more advanced it will be in the future. It is somewhat dystopian to see how self-aware and intelligent AI has become, while still clearly lacking the depth of human emotion and empathy.
+
+In my daily life, I have already integrated AI into my everyday tasks, however, I haven't taken a step back to think about how pivotal the invention of AI is/could be, similar to the invention of the wheel or the internet. I have just accepted the use of AI in my daily life, and I think it is important to take a step back and think about the implications of AI on our daily lives, as it is already changing how we live and work, and also how we interact with each other. I wonder how much more AI will be in the future, and how much more integrated it will be in our daily lives in just a few years from now.
