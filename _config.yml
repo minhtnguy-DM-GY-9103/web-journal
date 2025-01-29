@@ -50,3 +50,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+baseurl: "/web-journal"
+url: "https://minhtnguy-dm-gy-9103.github.io"
